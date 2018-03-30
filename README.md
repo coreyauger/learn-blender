@@ -1,9 +1,12 @@
 # learn-blender
 resources for learning bleander
 
+## Navigation
+* ```sift+f``` first person
+
 ## Edit Mode
-* ```r``` while in edge mode will create and edge ring
-* ```i``` 
+* ```alt+r``` while in edge mode will create and edge ring
+* ```i``` inline extrude and scale a face
 * ```e``` extrude
 * ```f``` create a new face
 
