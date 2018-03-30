@@ -14,7 +14,7 @@ resources for learning bleander
 ### Selection
 * ```c``` circle select
 * ```b``` box select
-* ```shift+alt``` edge ring select
+* ```shift+alt``` edge,face ring select
 
 ### Snap
 * ```shift+tab``` turn on snap
