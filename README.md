@@ -16,4 +16,5 @@ resources for learning bleander
 * ```shift+alt``` edge ring select
 
 ### Snap
-
+* ```shift+tab``` turn on snap
+* Snap to edge, Snap to Vertex, Snap to face.
