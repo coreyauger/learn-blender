@@ -6,6 +6,7 @@ resources for learning bleander
 
 ## Edit Mode
 * ```alt+r``` while in edge mode will create and edge ring
+  * ```scroll wheel``` increase the number of cuts
 * ```i``` inline extrude and scale a face
 * ```e``` extrude
 * ```f``` create a new face
